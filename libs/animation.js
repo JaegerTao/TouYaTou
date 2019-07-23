@@ -7,7 +7,7 @@
  * 4.type 动画类型
  */
 
-import Tween from './tween.js'
+import Tween from './tween.js' 
 
 const customAnimation = exports.customAnimation={}
 
