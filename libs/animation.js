@@ -9,7 +9,7 @@
 
 import Tween from './tween.js' 
 
-const customAnimation = exports.customAnimation={}
+const customAnimation = exports.customAnimation={}     
 
 customAnimation.to = function (duration, fromP, to, type, callback) {
   //做动画切换、延迟等
